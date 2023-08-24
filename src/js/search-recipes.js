@@ -1,6 +1,5 @@
 import Notiflix from 'notiflix';
 const axios = require('axios').default;
-// import {markupCardFavorites} from "./search.js";
 
 const gallery = document.querySelector(".gallery");
 const galleryOops = document.querySelector('.gallery-oops');
